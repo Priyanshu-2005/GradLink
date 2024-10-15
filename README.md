@@ -11,6 +11,7 @@ We're participating in **Hacktoberfest**! Contributions are welcome. Join the co
 ## 🌟 Features
 
 - **👤 User Registration & Login:** Quick and secure signup with college affiliation.
+so commit and make a pr as soon.
 - **💬 Social Feed:** Share updates and engage with content from other alumni.
 - **🔗 Follow System:** Connect and manage relationships with other users.
 - **📨 Chat Functionality:** Private messaging for meaningful conversations with mutual followers.
